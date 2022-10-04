@@ -32,7 +32,7 @@ export function Menubar({ user, onLoggedOut }) {
         <Link to="/">
           <img src={Logo} height={65} className="pr-3" />
         </Link>
-        <Navbar.Brand className="navbar-logo text-white text-center" href="/">CINEMA SPARK</Navbar.Brand>
+        <Navbar.Brand className="navbar-logo text-white text-center" href="/">WEIRD FLIX, MATE!</Navbar.Brand>
         <p className="text-white-50 center-block mt-3">a movie library app</p>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
